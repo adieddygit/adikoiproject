@@ -1,0 +1,3 @@
+The following are the working area in Local git Repoi. Working area
+ii. Staging area
+iii. Commit area
